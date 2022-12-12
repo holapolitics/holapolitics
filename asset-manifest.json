@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/holapolitics/static/css/main.f7c47d0f.chunk.css",
+    "main.js": "/holapolitics/static/js/main.2206ff5b.chunk.js",
+    "main.js.map": "/holapolitics/static/js/main.2206ff5b.chunk.js.map",
+    "runtime-main.js": "/holapolitics/static/js/runtime-main.0f51084d.js",
+    "runtime-main.js.map": "/holapolitics/static/js/runtime-main.0f51084d.js.map",
+    "static/js/2.4ac9ca24.chunk.js": "/holapolitics/static/js/2.4ac9ca24.chunk.js",
+    "static/js/2.4ac9ca24.chunk.js.map": "/holapolitics/static/js/2.4ac9ca24.chunk.js.map",
+    "index.html": "/holapolitics/index.html",
+    "static/css/main.f7c47d0f.chunk.css.map": "/holapolitics/static/css/main.f7c47d0f.chunk.css.map",
+    "static/js/2.4ac9ca24.chunk.js.LICENSE.txt": "/holapolitics/static/js/2.4ac9ca24.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f51084d.js",
+    "static/js/2.4ac9ca24.chunk.js",
+    "static/css/main.f7c47d0f.chunk.css",
+    "static/js/main.2206ff5b.chunk.js"
+  ]
+}
