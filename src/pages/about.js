@@ -48,7 +48,10 @@ const Page = (routerLocation, isAnimation) => {
               }}
             >
               <div>
-                <h1>Felicitats! </h1>
+                <h1>Senyores i senyors polítics,</h1>
+                <h2>Senyores i senyors polítics,</h2>
+                <h2>Sou tant bons que m'ho heu solucionat tot</h2>
+                <h2>Gràcies</h2>
                 <br />
                 {/* <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                   viewBox="0 0 480 480" style="enable-background:new 0 0 480 480;" xml:space="preserve">
