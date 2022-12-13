@@ -50,9 +50,9 @@ const Page = (routerLocation, isAnimation) => {
               <div>
                 {/* <h1>holapolitics.com</h1> */}
                 <h2>Senyores i senyors polítics,</h2>
-                <h2>Sou tant bons que m'ho heu solucionat tot</h2>
+                <h2>Sou tant bons que m'ho heu solucionat tot.</h2>
                 <br />
-                <h2>Gràcies</h2>
+                <h2>Gràcies.</h2>
                 <br />
                 {/* <h2>- declaraciones grandilocuentes</h2>
               <h2>+ solucionar problemas</h2> */}
